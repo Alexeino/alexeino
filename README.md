@@ -1,4 +1,4 @@
-### Hi there 👋
+# :wave: <i> Hello from Manish </i> 💻 A Full Stack Developer and 🐍 Pythonist
 
 <!--
 **Alexeino/alexeino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
